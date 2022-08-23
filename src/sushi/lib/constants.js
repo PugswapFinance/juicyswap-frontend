@@ -487,8 +487,8 @@ export const supportedPools = [
       97: '0x452d5E58519bD7B03Fae9593a86C88B7223f29e0', // Token, i.e. "DAI"
     },
     name: 'Juice Party!',
-    symbol: 'PUG-WBNB LP',
-    tokenSymbol: 'PUG',
+    symbol: 'SHIBA-WBNB LP',
+    tokenSymbol: 'SHIB',
     icon: '🍊',
   },
 ]
