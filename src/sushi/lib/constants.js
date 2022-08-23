@@ -465,7 +465,7 @@ export const contractAddresses = {
     97: '0x29afCFFccC645aa15f7557C5E7a959027e418F31',
   },
   masterChef: {
-    97: '0x316fE3b61E8bad7ED5f254FBE48fcd8bbAaB1103',
+    97: '0x2BCa380b67A8567e3CCA850a23134B35F472f1cd',
   },
   weth: {
     97: '0x094616F0BdFB0b526bD735Bf66Eca0Ad254ca81F',
@@ -481,14 +481,14 @@ export const supportedPools = [
   {
     pid: 0,
     lpAddresses: {
-      97: '0x452d5E58519bD7B03Fae9593a86C88B7223f29e0', // LP Token Address
+      97: '0x7ab529Eed84df49A3625Abe17c321Ed779dc0F31', // LP Token Address
     },
     tokenAddresses: {
-      97: '0x6b3595068778dd592e39a122f4f5a5cf09c90fe2', // Token, i.e. "DAI"
+      97: '0x452d5E58519bD7B03Fae9593a86C88B7223f29e0', // Token, i.e. "DAI"
     },
     name: 'Juice Party!',
-    symbol: 'DAI-ETH LP',
-    tokenSymbol: 'DAI',
+    symbol: 'PUG-WBNB LP',
+    tokenSymbol: 'PUG',
     icon: '🍊',
   },
 ]
